@@ -10,7 +10,6 @@ import Footer from './components/Footer'
 
 function App() {
   
-// 5725dee16c8a46ec8b584833252901
   
      return (
     <div>
